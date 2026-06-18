@@ -510,3 +510,24 @@ body.dark-theme {
     background-color: #111827 !important;
     color: #ffffff !important;
 }
+.score-circle {
+    transform: rotate(-90deg);
+}
+
+.score-circle-bg {
+    fill: none;
+    stroke: #2b2148;
+    stroke-width: 10;
+}
+
+.score-circle-bar {
+    fill: none;
+    stroke: #8B5CF6;
+    stroke-width: 10;
+    stroke-linecap: round;
+
+    stroke-dasharray: 471;
+    stroke-dashoffset: 471;
+
+    transition: stroke-dashoffset 1.5s ease;
+}

@@ -1,0 +1,103 @@
+JAMES WATSON
+
+COMPUTER SCIENCE ENGINEERING STUDENT
+
+OBJECTIVE
+
+Highly motivated and dedicated Computer Science
+Engineering student with a strong academic
+background. Proficient in programming languages such
+as Java, C++, and Python. Skilled in problem-solving
+and analytical thinking, with a keen interest in software
+development and web technologies. Seeking to apply
+my skills and knowledge in a challenging and dynamic
+environment.
+
+SKILLS
+
+® C/C++
+
+© Python 3
+
+® Java
+
+® HTML/CSS/IS
+
+® Machine Learning
+
+® Mobile/Web Development
+® Calculus
+
+® Data Structurs
+
+© Leadership / Communication / Presentation / Team
+Management
+
+LANGUAGES
+
+English
+
+French
+
+Arabic
+
+German
+
+CONTACT
+
+8 info@resumekraft.com
+0 202-555-0120
+Q Chicago, Illinois, US
+
+in linkedin.com/resumekraft
+
+EDUCATION
+
+Bachelor of Technology (B.Tech),
+Computer Science
+
+San Jose State University Jul 2017 - Present
+
+PROJECTS
+
+Digitization of Industrial Goods
+
+Smart Gujarat Industrial Hackathon
+
+Apr 2019 - Present
+
+In this project we have made online inventory of digital
+goods we used wordpress as framework in this project
+admin can add the details of goods and they can edit it
+later or delete it
+
+Job Portal Website Using Wordpress
+CGPIT (Surat) Dec 2019 - Present
+
+In this Job Portal project, Users who are looking for job,
+internship they can get it from here And organizations
+with vacancy can post on this job portal
+
+TRAINING
+
+Python3 Specialization
+Coursera(online) 2019-10-17
+
+I have learned Python3 Basic concepts, Its data types
+tuple, list, dictionary etc.
+
+Data processing in python3
+
+Functions in python3
+
+OOP concepts of python3
+
+Pillow, Tesseract, OpenCV in python3
+
+Deep Learning Using Python
+Mumbai University 2019-07-10
+® Learn about Machine learning, Different Neural
+Networks, Image Processing,
+® Real time projects and applications, Python Basics
+® Python Libraries like Tensorflow, NumPy, Pandas,
+Keras, PIL, matplotlib
